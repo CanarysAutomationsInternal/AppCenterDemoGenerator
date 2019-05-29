@@ -12,7 +12,7 @@
 
     ![image](GitHub/L3.png)
 
-1. Provide a description and select **repo** scope, click **Generate token**.
+1. Provide a description and select **repo**, **delete_repo** scope checkbox, click **Generate token**.
 
     ![image](GitHub/ScopeUpdated.png)
 
